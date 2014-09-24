@@ -6,7 +6,7 @@ Compile and/or run with Java 1.8 or later
 About
 
 More information about Lorentz-to-Gauss transformation filter you can find in:
-R. de Graaf, In Vivo NMR Spectroscopy – 2nd Edition, Wiley,2007, page: 21
+R. de Graaf, In Vivo NMR Spectroscopy â€“ 2nd Edition, Wiley, 2007, page: 21
 
 Installation
 
